@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[omw:home|Door43 (omw)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-omw|d43-omw repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-omw/archive/master.zip|d43-omw.zip]]
+
+**Recent Changes**
+{{changes>ns = omw}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/omw|Ethnologue data]]
+
